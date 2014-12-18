@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[ContactsTableViewController tableView:numberOfRowsInSection:]:ContactsTableViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "numberOfRows">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[ContactsTableViewController fetchedResultsController]:ContactsTableViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "_fetchedResultsController">
+            </PersistentString>
+            <PersistentString
+               value = "self.fetchedResultsController">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[ContactsTableViewController viewDidLoad]:ContactsTableViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.managedObjectContext">
+            </PersistentString>
+            <PersistentString
+               value = "managedObjectContext">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
